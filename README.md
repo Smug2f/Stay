@@ -1,2 +1,3 @@
 # Stay
-Stay v1.0 by Smug2
+Goto release and dowload client , 
+####8mb discord bypasser
