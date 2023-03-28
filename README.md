@@ -1,3 +1,3 @@
 # Stay
 Goto release and dowload client , 
-#####8mb discord bypasser
+#### 8mb
