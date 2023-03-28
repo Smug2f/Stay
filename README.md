@@ -1,3 +1,3 @@
 # Stay Client
-Goto release and dowload client , EZ as that
+Click on the .jar and dowload client , EZ as that
 #### 8mb discord bypasser
